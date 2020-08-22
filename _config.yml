@@ -22,6 +22,14 @@ github_username: rastangineer
 minimal_mistakes_skin: dirt
 search: true
 
+repository: rastangineer/blog
+
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -111,3 +119,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
