@@ -67,6 +67,7 @@ author:
   name   : "Rastangineer"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cloud Architect and DevOps junkie"
+  location: "Guadalajara, Mexico"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
