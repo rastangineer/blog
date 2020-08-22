@@ -93,6 +93,12 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/rasntangineer"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-176063405-1"
+    anonymize_ip: false # default
+
 defaults:
   # _posts
   - scope:
