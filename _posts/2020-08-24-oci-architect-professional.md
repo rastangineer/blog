@@ -15,7 +15,7 @@ Let's first begin with.. What does really means to be a OCI Architect Profession
 
 I have to be honest here, at the beginning of my preparation, I was skeptical about passing this one, because I lacked of real hands-on experience on OCI, but my previous hands-on experience on AWS was very helpful to understand OCI concepts faster, plus my OCI Architect *Associate* certification.
 
-The hardest part of the exam, for me, networking and databases. I never liked DB's, I always thought that in certain moment of your professional career you have to specialize in a couple of areas in order to get proficient, well.. networking and DB's were not my choice at that time. Now I can say as an Architect you definitively have to know DB's, at least at a high level.
+The hardest part of the exam, for me, **networking** and **databases**. I never liked DB's, I always thought that in certain moment of your professional career you have to specialize in a couple of areas in order to get proficient, well.. networking and DB's were not my choice at that time. Now I can say as an Architect you definitively have to know DB's, at least at a high level.
 
 At the end I think it's about all the experience you gathered since the beginning of your first days with computers, from the very first time you learned basic network config just because you had to do it in order to be able to play Starcraft in a LAN party with your friends on college, up to the last enterprise solution you designed.
 
@@ -26,4 +26,4 @@ As in my previous certification I followed the same tips (taking notes, quizzes,
 - [How I Studied for and Passed the Oracle Cloud Infrastructure (OCI) Architect Associate Certification Exam (the first time)](https://blogs.oracle.com/certification/how-i-studied-for-and-passed-the-oracle-cloud-infrastructure-oci-architect-associate-certification-exam-the-first-time)
 - [How I Passed the Oracle Cloud Infrastructure (OCI) Architect Associate Certification Exam](https://medium.com/getdotafrica/how-i-passed-the-oracle-cloud-infrastructure-oci-architect-associate-certification-exam-without-f509a298800)  
 
-Im not a person who collects certification just by fun. I see them as investments, is like saving money, you can simply do nothing and let the time pass by, or you can take advantage of theses times and learn something new and why not? Get certified.
+Im not a person who collects certification just by fun. I see them as investments, is like saving money, you can simply do nothing and let the time pass by, or you can take advantage of these times and learn something new and why not? Get certified.
