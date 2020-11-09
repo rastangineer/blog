@@ -22,9 +22,9 @@ So today I'm starting my own effort to maintain my own KB, based on URL's I visi
 
 * [Git bare repositories for dot files](https://news.ycombinator.com/item?id=11070797)
 
-  Very smart implementacion to version control your dotfiles configurations. I tried lots of dotfiles configurations from Internet but I always got confused with so many customizations. I decide to create mines starting from scractch.
+  Very smart implementacion to version control your dotfiles configurations. I tried lots of dotfiles configurations from Internet but I always got confused with so many customizations. I decide to create mines starting from scratch.
 
 * [Using SSH Keys in Visual Studio Code on Windows](https://www.cgranade.com/blog/2016/06/06/ssh-keys-in-vscode.html)
 
-  For some reason I always struggle a little bit when Im configuring a new laptop to clone my repos. This is the tutorial I always use as a reference.
+  For some reason I always struggle a little bit when Im configuring my ssh keys with vscode in a new laptop to clone my repos. This is the tutorial I always use as a reference.
 
