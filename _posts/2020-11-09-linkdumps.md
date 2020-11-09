@@ -13,9 +13,12 @@ Like 2 or 3 weeks ago I found **Christoph Stöttner** blog and I realized he is 
 So today I'm starting my own effort to maintain my own KB, based on URL's I visited.
 
 * [Christoph Stöttner](https://stoeps.de)
+
   It's basically a blog with interesting posts about Linux, ElasticSearch. Contains lots of interesting links collected weekly into linkdumps.
 * 📺 [[NEW 2019] How to install ORACLE DATABASE 19c on virtual machine LINUX 7.5](https://www.youtube.com/watch?v=n5SfzJeqMuk)
+
   Good video tutorial for installing Oracle 19c
 * [Git bare repositories for dot files](https://news.ycombinator.com/item?id=11070797)
-	Very smart implementacion to version control your dotfiles configurations. I tried lots of dotfiles configurations from Internet but I always got confused with so many customizations. I decide to create mines starting from scractch.
+
+  Very smart implementacion to version control your dotfiles configurations. I tried lots of dotfiles configurations from Internet but I always got confused with so many customizations. I decide to create mines starting from scractch.
 
