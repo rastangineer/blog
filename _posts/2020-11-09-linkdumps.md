@@ -1,0 +1,21 @@
+---
+title: "Links 09/11/2020"
+date: 2020-11-09T16:20:00
+categories:
+  - blog
+tags:
+  - links
+  - learning
+---
+
+Like 2 or 3 weeks ago I found **Christoph Stöttner** blog and I realized he is keeping like a knowledge base/bookmark collection/[linkdump](https://stoeps.de/tags/linkdump/) per week and I found it very smart to keep track of what important things you visited, or just to have a place to save you bookmarks, and why not? share it to the people.
+
+So today I'm starting my own effort to maintain my own KB, based on URL's I visited.
+
+* [Christoph Stöttner](https://stoeps.de)
+  It's basically a blog with interesting posts about Linux, ElasticSearch. Contains lots of interesting links collected weekly into linkdumps.
+* 📺 [[NEW 2019] How to install ORACLE DATABASE 19c on virtual machine LINUX 7.5](https://www.youtube.com/watch?v=n5SfzJeqMuk)
+  Good video tutorial for installing Oracle 19c
+* [Git bare repositories for dot files](https://news.ycombinator.com/item?id=11070797)
+	Very smart implementacion to version control your dotfiles configurations. I tried lots of dotfiles configurations from Internet but I always got confused with so many customizations. I decide to create mines starting from scractch.
+
