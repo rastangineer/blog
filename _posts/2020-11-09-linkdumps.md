@@ -4,7 +4,7 @@ date: 2020-11-09T16:20:00
 categories:
   - blog
 tags:
-  - links
+  - linkdumps
   - learning
 ---
 
