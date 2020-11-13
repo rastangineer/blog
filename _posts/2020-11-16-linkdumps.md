@@ -12,10 +12,14 @@ tags:
   
   This week I received a Windows 10 upgrade which upgraded my WSL to WSL2 also. Everything looked fine until I rebooted my machine, I noticed I lost internet in my WSL Ubuntu's. I found this link and performed the following steps:
 
-```DOS
+  ```DOS
   netsh winsock reset
   netsh int ip reset all
   netsh winhttp reset proxy
   ipconfig /flushdns
-```
-  Then reboot Windows.
+  ```
+  
+  Then reboot Windows
+
+* [Can AHK copy to clipboard the webpage title and url in markdown format? - AutoHotkey Community - Mozilla Firefox](https://www.autohotkey.com/boards/viewtopic.php?t=72431)
+
