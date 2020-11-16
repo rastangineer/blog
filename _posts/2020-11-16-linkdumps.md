@@ -22,13 +22,13 @@ tags:
 
 * [Jeffrey Paul: Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
 
-* [Doom, Emacs & Windows | Nerd things and more...](https://earvingad.github.io/posts/doom_emacs_windows/)
+* [Doom, Emacs & Windows - Nerd things and more...](https://earvingad.github.io/posts/doom_emacs_windows/)
 
-* [Org-roam & Windows | Nerd things and more...](https://earvingad.github.io/posts/org_roam_windows/)
+* [Org-roam & Windows - Nerd things and more...](https://earvingad.github.io/posts/org_roam_windows/)
 
-* [Switching to Doom Emacs | Ethan Anderson](https://ethanaa.com/blog/switching-to-doom-emacs/#doom-emacs)
+* [Switching to Doom Emacs - Ethan Anderson](https://ethanaa.com/blog/switching-to-doom-emacs/#doom-emacs)
 
-* [Show HN: Switch Git Users CLI | Hacker News](https://news.ycombinator.com/item?id=25069350)
+* [Show HN: Switch Git Users CLI - Hacker News](https://news.ycombinator.com/item?id=25069350)
   
   Smart and clean way to solve the problem of handling two github accounts (work and personal)
 
@@ -36,11 +36,11 @@ tags:
 
   Download your Google data.
 
-* [One-liners | Basic | Cheat sheet | Linux Command Library](https://linuxcommandlibrary.com/basic/oneliners.html)
+* [One-liners - Basic - Cheat sheet - Linux Command Library](https://linuxcommandlibrary.com/basic/oneliners.html)
 
-* [Org-mode | Nerd things and more...](https://earvingad.github.io/posts/org_mode/)
+* [Org-mode - Nerd things and more...](https://earvingad.github.io/posts/org_mode/)
 
-* [Switching to Doom Emacs | Ethan Anderson](https://ethanaa.com/blog/switching-to-doom-emacs/#install-doom-emacs)
+* [Switching to Doom Emacs - Ethan Anderson](https://ethanaa.com/blog/switching-to-doom-emacs/#install-doom-emacs)
 
 * [(1) Doom emacs on windows : emacs](https://www.reddit.com/r/emacs/comments/d5hbhl/doom_emacs_on_windows/)
 
