@@ -7,7 +7,6 @@ tags:
   - linkdumps
   - learning
 ---
-
 * [Lost internet access after reboot in my WSL environments](https://github.com/microsoft/WSL/issues/3438#issuecomment-410518578)
   
   This week I received a Windows 10 upgrade which upgraded my WSL to WSL2 also. Everything looked fine until I rebooted my machine, I noticed I lost internet in my WSL Ubuntu's. I found this link and performed the following steps:
@@ -21,5 +20,38 @@ tags:
   
   Then reboot Windows
 
+* [Jeffrey Paul: Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
+
+* [Doom, Emacs & Windows | Nerd things and more...](https://earvingad.github.io/posts/doom_emacs_windows/)
+
+* [Org-roam & Windows | Nerd things and more...](https://earvingad.github.io/posts/org_roam_windows/)
+
+* [Switching to Doom Emacs | Ethan Anderson](https://ethanaa.com/blog/switching-to-doom-emacs/#doom-emacs)
+
+* [Show HN: Switch Git Users CLI | Hacker News](https://news.ycombinator.com/item?id=25069350)
+  
+  Smart and clean way to solve the problem of handling two github accounts (work and personal)
+
+* [Google Takeout](https://takeout.google.com/?pli=1) 
+
+  Download your Google data.
+
+* [One-liners | Basic | Cheat sheet | Linux Command Library](https://linuxcommandlibrary.com/basic/oneliners.html)
+
+* [Org-mode | Nerd things and more...](https://earvingad.github.io/posts/org_mode/)
+
+* [Switching to Doom Emacs | Ethan Anderson](https://ethanaa.com/blog/switching-to-doom-emacs/#install-doom-emacs)
+
+* [(1) Doom emacs on windows : emacs](https://www.reddit.com/r/emacs/comments/d5hbhl/doom_emacs_on_windows/)
+
+  I have started to learn Doom Emacs, because Emacs is too hard for me.
+
+* [xming : Client 4 rejected from IP The Unix Tips](https://theunixtips.com/xming-client-4-rejected-from-ip/)
+
+* [Overview of the Web Application Firewall Service](https://docs.cloud.oracle.com/en-us/iaas/Content/WAF/Concepts/overview.htm)
+
+* [autohotkey - Global variable does not have global scope - Stack Overflow](https://stackoverflow.com/questions/10198900/global-variable-does-not-have-global-scope)
+
 * [Can AHK copy to clipboard the webpage title and url in markdown format? - AutoHotkey Community - Mozilla Firefox](https://www.autohotkey.com/boards/viewtopic.php?t=72431)
 
+  I used this little trick to improve my productivity when Im saving links and interesting stuff. Actually this is the way this file is crwated. Normally, I will compile a list of links using `F9` key as I browse for a week, then I edit this file, add the comments and the front matter at the top.
