@@ -54,4 +54,4 @@ tags:
 
 * [Can AHK copy to clipboard the webpage title and url in markdown format? - AutoHotkey Community - Mozilla Firefox](https://www.autohotkey.com/boards/viewtopic.php?t=72431)
 
-  I used this little trick to improve my productivity when Im saving links and interesting stuff. Actually this is the way this file is crwated. Normally, I will compile a list of links using `F9` key as I browse for a week, then I edit this file, add the comments and the front matter at the top.
+  I used this little trick to improve my productivity when Im saving links and interesting stuff. Actually this is the way this file is created. Normally, I will compile a list of links using `F9` key as I browse for a week, then I edit this file, add the comments and the front matter at the top.
