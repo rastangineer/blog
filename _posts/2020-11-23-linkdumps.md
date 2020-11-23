@@ -16,7 +16,7 @@ tags:
 
   Very _calm_ videos to learn to code/programming.
 
-* [Calmcode - Video tutorials for modern ideas and open source tools - Hacker News](https://news.ycombinator.com/item?id=25123059)
+* [Calmcode - Video tutorials for modern ideas and open source tools](https://news.ycombinator.com/item?id=25123059)
 
   As usual HackerNews with very interesting comments about `calmcode.io`
 
