@@ -20,4 +20,4 @@ tags:
 
   As usual HackerNews with very interesting comments about `calmcode.io`
 
-* [Git is simply too hard |> Changelog](https://changelog.com/posts/git-is-simply-too-hard)
+* [Git is simply too hard - Changelog](https://changelog.com/posts/git-is-simply-too-hard)
