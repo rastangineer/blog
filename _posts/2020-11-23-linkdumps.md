@@ -1,0 +1,23 @@
+---
+title: "Links 23/11/2020"
+date: 2020-11-23T16:20:00
+categories:
+  - blog
+tags:
+  - linkdumps
+  - learning
+---
+
+* [Six months of Tiny Projects](https://tinyprojects.dev/posts/six_months_of_tiny_projects)
+
+  Very nice reading about how doing small projects (no more than two weeks) you can get some incomes 💰
+
+* [calmcode - learn code calmly](https://calmcode.io/)
+
+  Very _calm_ videos to learn to code/programming.
+
+* [Calmcode - Video tutorials for modern ideas and open source tools | Hacker News](https://news.ycombinator.com/item?id=25123059)
+
+  As usual HackerNews with very interesting comments about `calmcode.io`
+
+* [Git is simply too hard |> Changelog](https://changelog.com/posts/git-is-simply-too-hard)
