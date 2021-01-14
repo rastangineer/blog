@@ -1,7 +1,6 @@
-* [How do I use Unicode in AutoHotKey? - Stack Overflow � Mozilla Firefox](https://stackoverflow.com/questions/15635635/how-do-i-use-unicode-in-autohotkey)
+﻿* [How to add text to a text file (encoding!) - AutoHotkey Community](https://www.autohotkey.com/boards/viewtopic.php?t=61744)
 
-* [How do I use Unicode in AutoHotKey? - Stack Overflow � Mozilla Firefox](https://stackoverflow.com/questions/15635635/how-do-i-use-unicode-in-autohotkey)
-
+* [How do I use Unicode in AutoHotKey? - Stack Overflow](https://stackoverflow.com/questions/15635635/how-do-i-use-unicode-in-autohotkey)
 
 * [Hide dotfiles in Windows - Super User ? ](https://superuser.com/questions/236939/hide-dotfiles-in-windows)
 
@@ -9,7 +8,7 @@
 
 * [tmaier/markdown-spellcheck - Docker Hub ? ](https://hub.docker.com/r/tmaier/markdown-spellcheck)
 
-https://www.npmjs.com/package/markdownlint-cli
+* [markdownlint-cli - npm](https://www.npmjs.com/package/markdownlint-cli)
 
 * [peterdavehello/markdownlint - Docker Hub ? ](https://hub.docker.com/r/peterdavehello/markdownlint/)
 
