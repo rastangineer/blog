@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Rastangineer Blog
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  I forget important stuff, so this blog.
+description: I forget important stuff, so this blog.
 twitter_username: rastangineer
 github_username: rastangineer
 minimal_mistakes_skin: dirt
